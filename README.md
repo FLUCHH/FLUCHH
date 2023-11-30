@@ -1,7 +1,8 @@
 ## Hey there, I am Luca Frattini :wave:
 
 I am a Robotics student @ `TU Delft`🤖 \
-These days I'm focusing mainly on Software implementations. In particular, I'm looking into the diy drone field, aiming at building my own Freestyle FPV drone in the foreseeable future.
+Currently immersed in the fascinating world of robotics, my sights are set on the dynamic realm of DIY drones, where I'm excited about delving into the intricacies of Freestyle FPV drones.
+🎯 My goal? To craft my very own high-performance drone, merging technology and creativity in the exhilarating field of drone freestyle.
 
 | 📚 Education | 📌 Projects | 📫 How to reach out |
 |:---|:---|:---|
